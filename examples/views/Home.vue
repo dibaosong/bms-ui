@@ -1,9 +1,6 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <times></times>
-
-    <upload></upload>
+  <div>
+    1123
   </div>
 </template>
 
