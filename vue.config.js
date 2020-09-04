@@ -50,6 +50,8 @@ if (isDev) {
       hot: true,
       open: true
     }
+}else {
+    config.productionSourceMap = false; //去除.map 文件
 }
 
 module.exports = config;

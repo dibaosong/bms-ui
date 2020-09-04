@@ -4,15 +4,11 @@ import router from './router'
 import store from './store'
 
 
-import times from '../packages/index'
+import bms from '../packages'
 import '../packages/theme-default/src/times.scss'
+import '../packages/theme-default/src/upload.scss'
 
-// import upload from '../packages/upload/index'
-// import '../packages/theme-default/src/upload.scss'
-
-Vue.use(times)
-
-//Vue.use(upload)
+Vue.use(bms)
 
 Vue.config.productionTip = false
 

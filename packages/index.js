@@ -1,5 +1,5 @@
 // 导入日期选择器组件
-import times from './time'
+import times from './times'
 import upload from './upload'
 
 // 存储组件列表

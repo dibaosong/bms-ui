@@ -1,0 +1,4 @@
+{
+    "times": "./packages/times/index.js",
+    "upload": "./packages/upload/index.js"
+}
